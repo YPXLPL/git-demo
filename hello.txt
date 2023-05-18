@@ -13,16 +13,4 @@ hello ypx
 hello ypx
 hello ypx
 hello ypx
-hello ypx
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
+hello ypx hot-fix
